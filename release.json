@@ -1,5 +1,5 @@
 {
-    "version": "v3.1.0",
+    "version": "v3.3.0",
     "dependencies": {
         "js": ["https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"],
         "css": ["https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css"]
